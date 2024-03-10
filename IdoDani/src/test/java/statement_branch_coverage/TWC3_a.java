@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class TestWC3_a {
+public class TWC3_a {
 	
 	@Test
 	//100% statement, less then 100% branches and not reveal the error

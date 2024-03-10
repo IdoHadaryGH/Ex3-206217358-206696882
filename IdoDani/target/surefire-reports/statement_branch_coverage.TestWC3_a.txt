@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: statement_branch_coverage.TestWC3_a
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in statement_branch_coverage.TestWC3_a

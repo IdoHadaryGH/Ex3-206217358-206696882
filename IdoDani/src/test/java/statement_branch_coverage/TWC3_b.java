@@ -2,7 +2,7 @@ package statement_branch_coverage;
 
 import org.junit.Test;
 
-public class TestWC3_b {
+public class TWC3_b {
 	
 	@Test(expected=ArithmeticException.class)
 	//100% branches and reveal the error

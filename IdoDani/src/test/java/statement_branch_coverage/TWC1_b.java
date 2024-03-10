@@ -4,16 +4,16 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class TestWC4_a {
+public class TWC1_b {
 	
 	@Test
-	//100% branches and not reveal the error
-	public void WM4_a() {
-		int x=4;
+	//100% statements and not reveal the error
+	public void WM1_b() {
+		int x=-1;
 		int y=4;
 		
-		int exp=8;
-		int res=WeakClass.WeakMethod4(x, y);
+		int exp=5;
+		int res=WeakClass.WeakMethod1(x, y);
 		assertEquals(exp, res);
 	}
 }
