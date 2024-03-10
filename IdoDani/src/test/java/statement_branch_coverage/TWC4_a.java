@@ -6,8 +6,8 @@ import org.junit.Test;
 
 public class TWC4_a {
 	
-	@Test
 	//100% branches and not reveal the error
+	@Test
 	public void WM4_a() {
 		int x=4;
 		int y=4;

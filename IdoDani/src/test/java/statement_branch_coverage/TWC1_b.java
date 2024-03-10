@@ -6,8 +6,8 @@ import org.junit.Test;
 
 public class TWC1_b {
 	
-	@Test
 	//100% statements and not reveal the error
+	@Test
 	public void WM1_b() {
 		int x=-1;
 		int y=4;
@@ -16,4 +16,5 @@ public class TWC1_b {
 		int res=WeakClass.WeakMethod1(x, y);
 		assertEquals(exp, res);
 	}
+	
 }

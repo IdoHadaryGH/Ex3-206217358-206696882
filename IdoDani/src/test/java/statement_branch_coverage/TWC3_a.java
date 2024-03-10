@@ -6,8 +6,8 @@ import org.junit.Test;
 
 public class TWC3_a {
 	
-	@Test
 	//100% statement, less then 100% branches and not reveal the error
+	@Test
 	public void WM3_a1() {
 		int x=-2;
 		int y=12;
@@ -17,8 +17,8 @@ public class TWC3_a {
 		assertEquals(exp, res);
 	}
 	
-	@Test
 	//100% statement, less then 100% branches and not reveal the error
+	@Test
 	public void WM3_a2() {
 		int x=-1;
 		int y=5;

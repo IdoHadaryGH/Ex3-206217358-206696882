@@ -4,8 +4,8 @@ import org.junit.Test;
 
 public class TWC3_b {
 	
-	@Test(expected=ArithmeticException.class)
 	//100% branches and reveal the error
+	@Test(expected=ArithmeticException.class)
 	public void WM3_b() {
 		int x=0;
 		int y=5;
