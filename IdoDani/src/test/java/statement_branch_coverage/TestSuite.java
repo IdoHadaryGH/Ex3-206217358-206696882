@@ -6,7 +6,8 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 
 @Suite.SuiteClasses({
-	TWC1_b.class
+	TWC1_a.class,
+	
 })
 public class TestSuite {
 	
